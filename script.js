@@ -49,7 +49,7 @@ function generatePassword() {
       return "";
     }
   } else {
-    window.alert("Uh oh! Something is wrong, You are outside the password range.");
+    window.alert("Uh oh! Something is wrong, you are outside the password range.");
     return "";
   }
 

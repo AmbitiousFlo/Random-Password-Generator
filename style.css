@@ -21,21 +21,22 @@ body {
   padding-top: 30px;
   padding-left: 20px;
   padding-right: 20px;
+  background-color: #af0808;
 }
 
 header {
   text-align: center;
-  padding: 20px;
+  padding: 1%;
   padding-top: 0px;
-  color: hsl(206, 17%, 28%);
+  text-shadow: 2px 2px 2px black;
 }
 
 .card {
-  background-color: hsl(0, 0%, 100%);
+  background-color: lightgrey;
   border-radius: 5px;
   border-width: 1px;
-  box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
-  color: hsl(206, 17%, 28%);
+  box-shadow: rgba(2, 2, 2, 2) 0px 2px 8px 0px;
+  color: black;
   font-size: 18px;
   margin: 0 auto;
   max-width: 800px;
@@ -78,6 +79,7 @@ header {
   border-radius: 25px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px
     0px;
+    text-shadow: 2px 2px 2px black;
   color: hsl(0, 0%, 100%);
   display: inline-block;
   font-size: 22px;
@@ -112,10 +114,11 @@ button[disabled] {
   text-align: center;
   margin-top: 10px;
   margin-bottom: 10px;
-  border: 2px dashed #c0c7cf;
+  border: 2px dashed black;
   border-radius: 6px;
   resize: none;
   overflow: hidden;
+  box-shadow: rgba(2, 2, 2, 2) 0px 2px 8px 0px;
 }
 
 @media (max-width: 690px) {

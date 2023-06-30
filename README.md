@@ -12,7 +12,7 @@ Take your mouse and click on any browser, To get to my project Copy and Paste by
 https://ambitiousflo.github.io/Random-Password-Generator/
 
 ## Usage
-![Screenshot of Christian Flores's Portfolio](/assets/images/Screenshot%202023-06-29%20200855.png)
+![Screenshot of the Random Password Generator](/assets/images/Screenshot%202023-06-29%20200855.png)
 
 
 ## License
